@@ -13,3 +13,7 @@ http://localhost:3000/api-doc
 
 https://nextjs-swagger.vercel.app/api-doc
 ```
+
+参考資料
+<br />
+https://github.com/jellydn/next-swagger-doc?tab=readme-ov-file
