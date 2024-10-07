@@ -10,4 +10,6 @@ npm run den
 
 # apiドキュメント開く
 http://localhost:3000/api-doc
+
+https://nextjs-swagger.vercel.app/api-doc
 ```
