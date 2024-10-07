@@ -6,7 +6,7 @@ next.jsでフルスタック開発する時に使える
 
 ```bash
 npm i
-npm run den
+npm run dev
 
 # apiドキュメント開く
 http://localhost:3000/api-doc
