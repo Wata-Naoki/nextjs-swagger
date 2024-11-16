@@ -2,7 +2,7 @@
 
 Next.js(App router) API Routesにswaggerを導入してAPIドキュメントを作成
 <br />
-next.jsでフルスタック開発する時に使える
+next.jsでフルスタック開発する時にAPIドキュメントとして使用
 
 ```bash
 npm i
@@ -11,6 +11,7 @@ npm run dev
 # apiドキュメント開く
 http://localhost:3000/api-doc
 
+# デプロイ環境
 https://nextjs-swagger.vercel.app/api-doc
 ```
 
